@@ -1,0 +1,11 @@
+====================================================================================================
+						
+			Recuerda hacer una copia de seguridad antes de pegar esta CFG y los settings, ya que se perderán
+ 
+====================================================================================================
+
+					⬐𝙻𝚘𝚜 𝚊𝚛𝚌𝚑𝚒𝚟𝚘𝚜 𝚎𝚗 𝚎𝚜𝚝𝚊 𝚌𝚊𝚛𝚙𝚎𝚝𝚊 𝚜𝚎 𝚍𝚎𝚋𝚎 𝚍𝚎 𝚙𝚎𝚐𝚊𝚛 𝚎𝚗 𝚕𝚊 𝚜𝚒𝚐𝚞𝚒𝚎𝚗𝚝𝚎 𝚛𝚞𝚝𝚊.⬎
+			
+				   【Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg】
+
+

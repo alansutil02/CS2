@@ -1,0 +1,10 @@
+====================================================================================================
+						
+						Ten en cuenta que la carpeta que sigue a ‘userdata’ puede variar 
+						según el código de tu cuenta. Borra todos los archivos antes de pegar.
+
+====================================================================================================
+						 
+					         ⬐𝙻𝚘𝚜 𝚊𝚛𝚌𝚑𝚒𝚟𝚘𝚜 𝚎𝚗 𝚎𝚜𝚝𝚊 𝚌𝚊𝚛𝚙𝚎𝚝𝚊 𝚜𝚎 𝚍𝚎𝚋𝚎 𝚍𝚎 𝚙𝚎𝚐𝚊𝚛 𝚎𝚗 𝚕𝚊 𝚜𝚒𝚐𝚞𝚒𝚎𝚗𝚝𝚎 𝚛𝚞𝚝𝚊.⬎
+
+							     【Steam\userdata\USERDATA DE TU CUENTA\730\local\cfg】
